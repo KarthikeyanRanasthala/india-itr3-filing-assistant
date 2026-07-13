@@ -3,7 +3,7 @@ name: india-itr3-filing-assistant
 description: Review, reconcile, and safely operate India's ITR-3 across the Income Tax e-Filing portal, offline utility, broker portals such as Zerodha Console, or files-only workflows for individual taxpayers with presumptive professional income, capital gains, broker tax-P&L files, Form 64B/PTI data, AIS/prefill JSON, tax payments, and generated upload JSON. Use for AY/FY or Tax Year selection, evidence retrieval, schedule selection and cleanup, BP/44ADA, CG/112A, OS/PTI/EI, CYLA/BFLA, Table F, VI-A, Tax Paid, Part B-TI/TTI, preview, validation, and mismatches among source evidence, third-party computations, generated JSON, the portal, and the utility. Routine reversible work may be authorized once upfront; never pay, sign the declaration, e-verify, or submit without separate action-time confirmation.
 ---
 
-# India ITR-3 Review and Filing Assistance
+# India ITR3 Filing Assistant
 
 ## Capability conventions
 

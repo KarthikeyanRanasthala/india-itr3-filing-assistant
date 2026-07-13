@@ -1,4 +1,4 @@
-# India ITR-3 Filing Assistant
+# India ITR3 Filing Assistant
 
 A safety-first Agent Skill for reviewing, reconciling, and preparing India's ITR-3 return. It supports online e-Filing, the offline utility, broker evidence such as Zerodha Tax P&L, and files-only workflows.
 

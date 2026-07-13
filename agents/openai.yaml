@@ -1,4 +1,4 @@
 interface:
-  display_name: "India ITR-3 Review"
+  display_name: "India ITR3 Filing Assistant"
   short_description: "Review ITR-3 online, offline, and from files"
   default_prompt: "Use $india-itr3-filing-assistant with one consolidated intake to retrieve evidence, reconcile and clean up my ITR-3, and work safely to my authorized stopping point."
