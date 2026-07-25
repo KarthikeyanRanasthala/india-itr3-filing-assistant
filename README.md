@@ -1,11 +1,13 @@
 # India ITR3 Filing Assistant
 
+> **Archived:** This repository is no longer maintained. Use [India Income Tax Filing Skill](https://github.com/KarthikeyanRanasthala/india-income-tax-filing-skill), the actively maintained replacement for Indian individual ITR-1, ITR-2, ITR-3, and ITR-4 workflows.
+
 A safety-first Agent Skill for reviewing, reconciling, and preparing India's ITR-3 return. It supports online e-Filing, the offline utility, broker evidence such as Zerodha Tax P&L, and files-only workflows.
 
 ## Install
 
 ```sh
-npx skills add KarthikeyanRanasthala/india-itr3-filing-assistant
+npx skills add KarthikeyanRanasthala/india-income-tax-filing-skill
 ```
 
 ## What it does
